@@ -2,6 +2,7 @@
 Development Environment did on t460s
 and 
 Section3 Completed
+    lecture 40 Finished
 
 2019/02/12
 i have to install vscode on t460s and add extensions
