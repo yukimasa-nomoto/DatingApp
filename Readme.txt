@@ -1,3 +1,8 @@
+2019/03/07
+start Section 6
+I Found "Failed to load resource: the server responed with a status of 400"
+finished lecture 53
+
 2019/02/15 
 End of Section 5
 
