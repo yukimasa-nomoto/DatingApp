@@ -2,6 +2,9 @@
 End of Section 6
 Start Section 7
 End of Section 7
+Start Section 8
+
+finished lecture 68
 
 2019/03/07
 start Section 6
