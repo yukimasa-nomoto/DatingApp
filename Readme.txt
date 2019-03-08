@@ -1,3 +1,6 @@
+2019/03/08
+End of Section 6
+
 2019/03/07
 start Section 6
 I Found "Failed to load resource: the server responed with a status of 400"
