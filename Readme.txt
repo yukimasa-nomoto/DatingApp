@@ -1,3 +1,7 @@
+2019/03/20
+Start lecture 69
+End of Section 8
+
 2019/03/08
 End of Section 6
 Start Section 7
